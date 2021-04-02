@@ -4,17 +4,12 @@
 trap 'tput cnorm; echo' EXIT
 trap 'exit 127' HUP INT TERM
 
-# Clear the screen so no prompt
-clear
-# Make text cursor invisible
-tput civis
-# Save cursor position
-tput sc
+clear  # Clear the screen so no prompt
+tput civis  # Make text cursor invisible
+tput sc  # Save cursor position
 while true; do
   for char in '-' '\' '|' '/'; do
-    # Back to saved position
-    tput rc
-    printf "%s" "$char"
+    printf "%s\n" "$char"
     sleep 1
   done
 done
