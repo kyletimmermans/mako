@@ -25,4 +25,5 @@ Wireshark for Bash Terminal
 ### ToDo
 - [ ] Usage with -h
 - [ ] Install instructions (Put in /bin/bash with wget command and chmod should be -rwxr-xr-x)
+  - [ ] If no access to /bin/bash put in home and `alias mako="currentDir=$PWD && cd /Users/$USER && ./mako && cd $currentDir"  
 - [ ] Test on storm
