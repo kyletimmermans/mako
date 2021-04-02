@@ -9,7 +9,7 @@
 Wireshark for Bash Terminal
 
 **Setup**
-<div>Choose interface to capture on (list possible one's on machine</div>
+<div>Choose interface to capture on (list possible one's on machine)</div>
 <div>&ensp;</div>
 <div>No.&ensp;Time&ensp; Source&ensp;Destination&ensp;Protocol&ensp;Info</div>
 <div>"Press q to quit" (highlighted bottom left)</div>
