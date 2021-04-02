@@ -6,7 +6,7 @@
 
 # <div align="center">Mako</div>
 
-Wireshark for terminal
+Wireshark for Bash Terminal
 
 **Setup**
 <div>No.&ensp;Time&ensp; Source&ensp;Destination&ensp;Protocol&ensp;Info</div>
