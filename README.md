@@ -14,7 +14,7 @@ Wireshark for Bash Terminal
 <div>&ensp;&ensp;&ensp;Chose interface and start (list possible interfaces)</div>
 <div>&ensp;&ensp;&ensp;&ensp;No.&ensp;Time&ensp; Source&ensp;Destination&ensp;Protocol&ensp;Info</div>
 <div>&ensp;&ensp;&ensp;&ensp;Press q to quit</div>
-<div>&ensp;&ensp;&ensp;&ensp;On quit, save pcap file to current dir</div>
+<div>&ensp;&ensp;&ensp;&ensp;On quit, save pcap file to home dir</div>
 <div>&ensp;</div>
 <div>Different foreground and background colors for protocols, normal packet, and errors: https://www.wireshark.org/docs/wsug_html_chunked/ChCustColorizationSection.html#ChCustColoringRulesDialog</div>
 <div>&ensp;</div>
