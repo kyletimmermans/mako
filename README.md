@@ -1,5 +1,5 @@
 ![Version 1.0](http://img.shields.io/badge/version-v1.0-orange.svg)
-![bash 5.0.17-1)](https://img.shields.io/badge/bash-5.0.17--1-limegreen.svg)
+![bash 5.0.17-1)](https://img.shields.io/badge/C++-pink.svg)
 ![Latest commit](https://img.shields.io/github/last-commit/kyletimmermans/mako?color=lightblue)
 ![Latest Release Date](https://img.shields.io/github/release-date/kyletimmermans/mako?color=darkgreen)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
