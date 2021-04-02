@@ -12,6 +12,7 @@ Wireshark for terminal
 <div>No.&ensp;Time&ensp; Source&ensp;Destination&ensp;Protocol&ensp;Info</div>
 <div>"Press q to quit" (highlighted bottom left)</div>
 <div>Different foreground and background colors for protocols, normal packet, and errors: https://www.wireshark.org/docs/wsug_html_chunked/ChCustColorizationSection.html#ChCustColoringRulesDialog</div>
+<div>Dynamic screen: https://stackoverflow.com/questions/31156508/bash-dynamic-command-line-output/31156977</div>
 
 
 
