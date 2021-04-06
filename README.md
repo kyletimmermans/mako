@@ -30,9 +30,9 @@ Wireshark for Bash Terminal
 <div>&ensp;&ensp;To store system command result in C++: https://stackoverflow.com/a/5919644/11200327</div>
 <div>&ensp;</div>
 <div>cin menu with prompt "=>"</div>
-<div>&ensp;&ensp;1. Start sniffing</div>
-<div>&ensp;&ensp;2. Usage/Help</div>
-<div>&ensp;&ensp;3. About</div>
+<div>&ensp;&ensp;[1] Start sniffing</div>
+<div>&ensp;&ensp;[2] Usage/Help</div>
+<div>&ensp;&ensp;[3] About</div>
 
 
 
