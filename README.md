@@ -22,6 +22,7 @@ Wireshark for Bash Terminal
 <div>&ensp;&ensp;Use this to run bash commands in C++ - https://stackoverflow.com/a/646225/11200327</div>
 <div>&ensp;</div>
 <div>C++ packet sniffing library: http://libtins.github.io/</div>
+<div>&ensp;Installed with `brew install libtins`</div>
 <div>&ensp;</div>
 <div>ASCII Art Mako Shark (first shark): http://www.ascii-art.de/ascii/s/sharks.txt</div>
 <div>&ensp;</div>
@@ -36,6 +37,7 @@ Wireshark for Bash Terminal
 <div>&ensp;</div>
 <div>packet_info.txt contains 1 duplicate for all info types</div>
 <div>&ensp;Get protocol, flags, info, errors, from highest level of packet</div>
+<div>&ensp;</div>
 <div>Running getPorts.cpp with `g++ -std=c++11 getPorts.cpp -o getPorts -ltins` and `sudo ./getPorts`</div>
 
 
