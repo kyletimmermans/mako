@@ -24,6 +24,7 @@ Wireshark for Bash Terminal
 <div>C++ packet sniffing library: http://libtins.github.io/</div>
 <div>&ensp;</div>
 <div>ASCII Art Mako Shark (first shark): http://www.ascii-art.de/ascii/s/sharks.txt</div>
+<div>&ensp;</div>
 <div>To get network interfaces use `ifconfig -a' for mac and for linux use `ip link show` and then awk for both to cut out all available network interfaces</div>
 <div>&ensp;&ensp;Use awk in C++, https://stackoverflow.com/a/5919644/11200327</div>
 
