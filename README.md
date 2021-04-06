@@ -27,7 +27,7 @@ Wireshark for Bash Terminal
 <div>&ensp;</div>
 <div>To get network interfaces use `ifconfig -a' for mac and for linux use `ip link show` and then awk for both to cut out all available network interfaces</div>
 <div>&ensp;&ensp;To get OS use `uname`</div>
-<div>&ensp;&ensp;Use awk or uname in C++: https://stackoverflow.com/a/5919644/11200327</div>
+<div>&ensp;&ensp;To store system command result in C++: https://stackoverflow.com/a/5919644/11200327</div>
 
 
 
