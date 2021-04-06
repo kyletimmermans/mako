@@ -1,6 +1,7 @@
 ![Version 1.0](http://img.shields.io/badge/version-v1.0-orange.svg)
-![C++17](https://img.shields.io/badge/C++-17-F44B7D.svg)
-![Latest commit](https://img.shields.io/github/last-commit/kyletimmermans/mako?color=lightblue)
+![C++11](https://img.shields.io/badge/C++-11-F44B7D.svg)
+![libtins4.3](https://img.shields.io/badge/libtins-4.3-lightblue.svg)
+![Latest commit](https://img.shields.io/github/last-commit/kyletimmermans/mako)
 ![Latest Release Date](https://img.shields.io/github/release-date/kyletimmermans/mako?color=darkgreen)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
 
