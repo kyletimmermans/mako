@@ -33,6 +33,8 @@ Wireshark for Bash Terminal
 <div>&ensp;&ensp;[1] Start sniffing</div>
 <div>&ensp;&ensp;[2] Usage/Help</div>
 <div>&ensp;&ensp;[3] About</div>
+<div>&ensp;</div>
+<div>packet_info.txt contains 1 duplicate for all info types</div>
 
 
 
