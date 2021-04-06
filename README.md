@@ -36,6 +36,18 @@ Wireshark for Bash Terminal
 <div>&ensp;</div>
 <div>packet_info.txt contains 1 duplicate for all info types</div>
 <div>&ensp;&ensp;Hash map for all info types?</div>
+<div>&ensp;</div>
+<div>Packet Info:</div>
+<div>&ensp;TCP:</div>
+<div>&ensp;&ensp;[ TCP error ]</div>
+<div>&ensp;&ensp;src_port_num → dest_port_num</div>
+<div>&ensp;&ensp;[FIN or ACK or both with comma or just RST]</div>
+<div>&ensp;&ensp;Seq= Ack= Win= Len= TSval= TSecr=</div>
+<div>&ensp;UDP:</div>
+<div>&ensp;&ensp;src_port_num → dest_port_num Len=</div>
+<div>&ensp;TLSv1.2:</div>
+<div>&ensp;&ensp;Applciation Data</div>
+
 
 
 
