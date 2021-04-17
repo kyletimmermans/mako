@@ -31,7 +31,6 @@ Wireshark for Bash Terminal
 <div>&ensp;&ensp;To get OS use `uname`</div>
 <div>&ensp;&ensp;To store system command result in C++: https://stackoverflow.com/a/5919644/11200327</div>
 <div>&ensp;</div>
-<div>&ensp;</div>
 <div>packet_info.txt contains 1 duplicate for all info types</div>
 <div>&ensp;Get protocol, flags, info, errors, from highest level of packet</div>
 <div>&ensp;</div>
