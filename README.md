@@ -44,3 +44,4 @@ Wireshark for Bash Terminal
   - [ ] If no access to /bin/bash put in home and .bashrc or .zshrc or whatever settings they have for their terminal should include `alias mako="currentDir=$PWD && cd /Users/$USER && ./mako && cd $currentDir"`
 - [ ] Make sure to use `-std=c++11` and `-ltins` at the end with g++
 - [ ] Use OOP and Classes
+- [ ] Give it correct permissions to run correctly the first time
