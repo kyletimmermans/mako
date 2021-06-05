@@ -34,7 +34,7 @@ Wireshark for Bash Terminal
 <div>packet_info.txt contains 1 duplicate for all info types</div>
 <div>&ensp;Get protocol, flags, info, errors, from highest level of packet</div>
 <div>&ensp;</div>
-<div>Running getPorts.cpp with `g++ -std=c++11 packets.cpp -o packets -ltins` and `./getPorts`</div>
+<div>Running packets.cpp with `g++ -std=c++11 packets.cpp -o packets -ltins` and `./packets`</div>
 
 
 
