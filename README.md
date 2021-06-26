@@ -1,6 +1,6 @@
 ![Version 1.0](http://img.shields.io/badge/version-v1.0-orange.svg)
-![C++11](https://img.shields.io/badge/C++-11-F44B7D.svg)
-![libtins4.3](https://img.shields.io/badge/libtins-4.3-lightblue.svg)
+![C++17](https://img.shields.io/badge/C++-17-F44B7D.svg)
+![PcapPlusPlus21.05](https://img.shields.io/badge/PcapPlusPlus-21.05-lightblue.svg)
 ![Latest commit](https://img.shields.io/github/last-commit/kyletimmermans/mako)
 ![Latest Release Date](https://img.shields.io/github/release-date/kyletimmermans/mako?color=darkgreen)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
@@ -22,8 +22,6 @@ Wireshark for Bash Terminal
 <div>Dynamic screen (See clearScreenAndWrite.sh file above): https://stackoverflow.com/questions/31156508/bash-dynamic-command-line-output/31156977</div>
 <div>&ensp;&ensp;Use this to run bash commands in C++ - https://stackoverflow.com/a/646225/11200327</div>
 <div>&ensp;</div>
-<div>C++ packet sniffing library: http://libtins.github.io/</div>
-<div>&ensp;Installed with `brew install libtins`</div>
 <div>&ensp;</div>
 <div>ASCII Art Mako Shark (first shark): http://www.ascii-art.de/ascii/s/sharks.txt</div>
 <div>&ensp;</div>
@@ -31,17 +29,12 @@ Wireshark for Bash Terminal
 <div>&ensp;&ensp;To get OS use `uname`</div>
 <div>&ensp;&ensp;To store system command result in C++: https://stackoverflow.com/a/5919644/11200327</div>
 <div>&ensp;</div>
-<div>packet_info.txt contains 1 duplicate for all info types</div>
-<div>&ensp;Get protocol, flags, info, errors, from highest level of packet</div>
-<div>&ensp;</div>
-<div>Running packets.cpp with `g++ -std=c++11 packets.cpp -o packets -ltins` and `./packets`</div>
-
+<div>https://pcapplusplus.github.io/docs/quickstart/macos</div>
 
 
 ### ToDo
 - [ ] Usage with -h (argc in main parameters and include usage())
 - [ ] Install instructions (Put in /usr/bin with wget command and chmod should be -rwxr-xr-x)
   - [ ] If no access to /bin/bash put in home and .bashrc or .zshrc or whatever settings they have for their terminal should include `alias mako="currentDir=$PWD && cd /Users/$USER && ./mako && cd $currentDir"`
-- [ ] Make sure to use `-std=c++11` and `-ltins` at the end with g++
 - [ ] Use OOP and Classes
 - [ ] Give it correct permissions to run correctly the first time
