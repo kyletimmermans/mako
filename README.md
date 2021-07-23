@@ -29,7 +29,7 @@ Wireshark for Bash Terminal
 <div>&ensp;&ensp;To get OS use `uname`</div>
 <div>&ensp;&ensp;To store system command result in C++: https://stackoverflow.com/a/5919644/11200327</div>
 <div>&ensp;</div>
-<div>https://pcapplusplus.github.io/docs/quickstart/macos</div>
+<div>See Makefile, tabs must be present, use vi for tabbing (check with: cat -e -t -v Makefile)</div>
 
 
 ### ToDo
